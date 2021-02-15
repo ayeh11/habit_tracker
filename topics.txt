@@ -1,0 +1,8 @@
+text,choice,number,y/n,number
+diary,feelings,amount exercised,golf,work
+,,,,3,2,2b,1
+lightblue
+happy,sad,dead inside,pure rage,,☺️,☹️,☠️,❗️,
+⛹️
+⛳️
+⏱
